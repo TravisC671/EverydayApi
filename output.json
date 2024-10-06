@@ -1,165 +1,127 @@
 {
   "meals": {
-    "breakfast": {
-      "Default": [],
-      "Savory": [],
-      "Sizzle": [],
-      "Spoonfull": [],
-      "TwistsAndSlices": []
-    },
-    "brunch": {
-      "Default": [],
-      "Savory": [],
-      "Sizzle": [],
-      "Spoonfull": [],
-      "TwistsAndSlices": []
-    },
-    "lunch": {
-      "Default": [],
-      "Savory": [],
-      "Sizzle": [],
-      "Spoonfull": [],
-      "TwistsAndSlices": []
-    },
-    "dinner": {
-      "Default": [
-        [
-          {
-            "name": "Have A Nice Day",
-            "allergens": [],
-            "ingredients": "Plate Cost Peripherals"
-          }
-        ]
-      ],
-      "Savory": [
-        [
-          {
-            "name": "Tater Tot Casserole",
-            "allergens": [
-              "gluten_wheat.png",
-              "soya.png",
-              "gluten.png",
-              "milk.png",
-              "sesame.png"
-            ],
-            "ingredients": "Ground Beef; Cream of Mushroom Soup (Water,Mushrooms,Corn,Cottonseed,Canola,and/or Soybean,Modified Food Starch,Wheat Flour,Salt,Monosodium Glutamate,Soy Protein Concentrate,Cream,Soy Lecithin,Yeast Extract,Dehydrated Garlic); Tater Tots (Potatoes,Vegetable Oil (Contains One or More of The Following Oils: Canola,Soybean,Cottonseed,Sunflower,Corn).  Contains 2% or less of Dextrose,Natural Flavor,Salt,Sodium Acid Pyrophosphate Added to Maintain Natural Color); Yellow Onion; Plain Bread Crumbs (Enriched Flour (Wheat Flour,Malted Barley Flour,Niacin,Reduced Iron,Thiamin Mononitrate [Vitamin B1],Riboflavin [Vitamin B2],Folic Acid),Water,High Fructose Corn Syrup,Yeast,Salt,Vegetable Oil (Soybean,Cottonseed  and/or Canola),Sugar,May Contain 2% Or Less Of The Following:  Wheat Gluten,Dextrose,Soy Flour,Whey,Calcium Propionate (Preservative),Sodium Stearoyl Lactylate (Dough Conditioner),Mono and Diglycerides,Soy Lecithin,Molasses,Honey,Whole Wheat Flour,Corn Flour,Cornmeal,Citric Acid,Grain Vinegar,Wheat Starch,Corn Starch,Potato Flour,Rice Flour,Wheat Bran,Oat Fiber,Calcium Sulfate,DATEM Gum,Calcium Phosphate,Enrichment (Vitamin E Acetate,Vitamin A Palmitate,Vitamin D3),Lactic Acid,Ascorbic Acid (Dough Conditioner),Spice &amp; Coloring,Natural and Artificial Flavor,Sesame Seeds); Shredded Mild Cheddar Cheese (Pasteurized Milk,Cheese Culture,Salt,Enzymes,Annatto (vegetable color),Potato Starch,Powdered Cellulose added to prevent caking); Kosher Salt; Black Pepper; Garlic Powder"
-          },
-          {
-            "name": "Broccoli Florets",
-            "allergens": [],
-            "ingredients": "Broccoli Florets; Tap Water"
-          },
-          {
-            "name": "Cheddar Mashed Potatoes",
-            "allergens": [
-              "soya.png",
-              "milk.png"
-            ],
-            "ingredients": "Chef Potato; 2% Milk; Shredded Mild Cheddar Cheese (Pasteurized Milk,Cheese Culture,Salt,Enzymes,Annatto (vegetable color),Potato Starch,Powdered Cellulose added to prevent caking); Margarine (Vegetable Oil Blend (Palm Oil and Soybean Oil) Water,Salt,contains less than 2% of Nonfat Dry Milk,Soy Lecithin,Vegetable Mono &amp; Diglycerides,Potassium Sorbate (a preservative),Citric Acid,Natural &amp; Artificial Flavor,Beta Carotene (color),Vitamin A Palmitate added); Kosher Salt; White Pepper Ground"
-          }
-        ]
-      ],
-      "Sizzle": [
-        [
-          {
-            "name": "Hamburger On Bun",
-            "allergens": [
-              "sesame.png",
-              "gluten_wheat.png",
-              "gluten.png",
-              "soya.png"
-            ],
-            "ingredients": "Seasoned Beef Patty (Beef,Water,Spice,Salt); Hamburger Bun (Unbleached,Enriched Flour (Wheat Flour,Malted Barley Flour,Niacin,Iron,Thiamin Mononitrate,Riboflavin,Folic Acid),Water,High Fructose Corn Syrup,Yeast,Soybean Oil,contains 2% or less of the following: Wheat Gluten,Salt,Monocalcium Phosphate,Monoglycerides,Wheat Flour,Calcium Sulfate,Ammonium Sulfate,Ascorbic Acid,Enzymes,Calcium Propionate (preservative)); Tomato; Green Leaf Lettuce"
-          },
-          {
-            "name": "Cheeseburger On Bun",
-            "allergens": [
-              "sesame.png",
-              "milk.png",
-              "gluten.png",
-              "gluten_wheat.png",
-              "soya.png"
-            ],
-            "ingredients": "Seasoned Beef Patty (Beef,Water,Spice,Salt); Hamburger Bun (Unbleached,Enriched Flour (Wheat Flour,Malted Barley Flour,Niacin,Iron,Thiamin Mononitrate,Riboflavin,Folic Acid),Water,High Fructose Corn Syrup,Yeast,Soybean Oil,contains 2% or less of the following: Wheat Gluten,Salt,Monocalcium Phosphate,Monoglycerides,Wheat Flour,Calcium Sulfate,Ammonium Sulfate,Ascorbic Acid,Enzymes,Calcium Propionate (preservative)); Tomato; Yellow American Cheese (American Cheese (Milk,Cheese Culture,Salt,Enzymes),Water,Cream,Sodium Citrate,Salt,Sorbic Acid as a Preservative,color added (if colored (Annatto OS 460 and Oleoresin Paprika Non GMO)),Sunflower Lecithin for separation); Green Leaf Lettuce"
-          },
-          {
-            "name": "French Fries",
-            "allergens": [
-              "soya.png"
-            ],
-            "ingredients": "French Fries (Potatoes,Vegetable Oil (Contains One or More of The Following Oils: Canola,Soybean,Cottonseed,Sunflower,Corn). Contains 2% or less of Dextrose,Sodium Acid Pyrophosphate Added to Maintain Color); Vegetable Oil (Liquid and Hydrogenated Soybean Oil,TBHQ and Citric Acid added to protect flavor,Dimethylpolysiloxane (an anti-foaming agent))"
-          },
-          {
-            "name": "Black Bean Burger",
-            "allergens": [
-              "sesame.png",
-              "gluten_wheat.png",
-              "gluten.png",
-              "soya.png"
-            ],
-            "ingredients": "Vegetarian Black Bean Burger (Water,Cooked Black Beans (Black Beans,Water),Cooked Brown Rice (Water,Brown Rice),Soy Protein Concentrate,Onions,Whole Kernel Corn,Hydrated Bulgur Wheat (Water,Bulgur Wheat),Soy Protein Isolate,Green Chiles,Canola Oil,contains two percent or less of Salt,Spices,Red Bell Peppers,Black Bean Powder,Methylcellulose,Yeast Extract,Sugar,Onion Powder,Tomato Powder,Caramel Color,Natural Flavor,Garlic Powder,Paprika (color),Turmeric (color)); Hamburger Bun (Unbleached,Enriched Flour (Wheat Flour,Malted Barley Flour,Niacin,Iron,Thiamin Mononitrate,Riboflavin,Folic Acid),Water,High Fructose Corn Syrup,Yeast,Soybean Oil,contains 2% or less of the following: Wheat Gluten,Salt,Monocalcium Phosphate,Monoglycerides,Wheat Flour,Calcium Sulfate,Ammonium Sulfate,Ascorbic Acid,Enzymes,Calcium Propionate (preservative))"
-          }
-        ]
-      ],
-      "Spoonfull": [
-        [
-          {
-            "name": "Mindful Potato Leek Soup",
-            "allergens": [
-              "gluten_wheat.png",
-              "gluten.png"
-            ],
-            "ingredients": "Tap Water; Chef Potato; Leeks; Canola Oil; Celery; Yellow Onion; Vegetable Soup Base (Maltodextrin,Onions,Sugar,Salt,Yeast Extract,Celery,Onion Powder,Carrots,Potassium Chloride,Corn Oil,Carrot Powder,Water,Modified Tapioca Starch,Carrot Juice Concentrate,Tomato Paste,Garlic Powder,Natural Flavor,Disodium Inosinate,Disodium Guanylate,Citric Acid,extractives of Paprika (for color)); All Purpose Flour (Bleached Wheat Flour,Malted Barley Flour,Niacin,Iron,Thiamin Mononitrate,Riboflavin,Folic Acid); Garlic; Kosher Salt; White Pepper Ground"
-          }
-        ]
-      ],
-      "TwistsAndSlices": [
-        [
-          {
-            "name": "Cheese Pizza",
-            "allergens": [
-              "milk.png",
-              "soya.png",
-              "gluten_wheat.png",
-              "gluten.png"
-            ],
-            "ingredients": "Pizza Dough (Enriched Unbleached Wheat Flour (Wheat Flour,Niacin,Iron as Ferrous Sulfate,Thiamine Mononitrate,Enzyme,Riboflavin,Folic Acid),Water,Yeast,contains less than 2% of the following:  Palm Oil,Salt,Buttermilk,Sugar,Soybean Oil,Leavening (Baking Soda,Sodium Aluminum Phosphate),Cheddar Cheese (Milk,Cheese Cultures,Salt,Enzymes),Pasteurized Part Skim Milk,Whey Powder (Milk Derivative),Garlic Powder,Cheese Culture,Guar Gum,Malted Barley Flour,Dextrose,Xanthan Gum,DATEM,Enzyme,Sodium Phosphate,Lactic Acid,Ascorbic Acid); Pizza Sauce (Vine Ripened Fresh Tomatoes,Sugar,Salt,Spices,Salt,Garlic Powder,Extra Virgin Olive Oil); Shredded Part Skim Mozzarella Cheese (Pasteurized Part Skim Milk,Cheese Culture,Salt,and Enzymes,Potato Starch and Powdered Cellulose added to prevent caking); Canola Oil; Italian Seasoning (Marjoram,Thyme,Rosemary,Savory,Sage,Oregano,and Basil); Garlic Powder"
-          },
-          {
-            "name": "Penne Pasta",
-            "allergens": [
-              "gluten_wheat.png",
-              "gluten.png"
-            ],
-            "ingredients": "Tap Water; Penne (Semolina (Wheat),Niacin,Ferrous Sulfate (Iron),Thiamin Mononitrate,Riboflavin,Folic Acid); Canola Oil; Kosher Salt"
-          },
-          {
-            "name": "Alfredo Sauce",
-            "allergens": [
-              "gluten.png",
-              "milk.png",
-              "gluten_wheat.png",
-              "soya.png"
-            ],
-            "ingredients": "Tap Water; Heavy Cream; Grated Parmesan Cheese (Parmesan Cheese (Pasteurized Part Skim Milk,Cheese Culture,Salt,Enzymes),Powdered Cellulose (added to prevent caking),Potassium Sorbate to protect flavor); All Purpose Flour (Bleached Wheat Flour,Malted Barley Flour,Niacin,Iron,Thiamin Mononitrate,Riboflavin,Folic Acid); Margarine (Vegetable Oil Blend (Palm Oil and Soybean Oil) Water,Salt,contains less than 2% of Nonfat Dry Milk,Soy Lecithin,Vegetable Mono &amp; Diglycerides,Potassium Sorbate (a preservative),Citric Acid,Natural &amp; Artificial Flavor,Beta Carotene (color),Vitamin A Palmitate added); Vegetable Soup Base (Maltodextrin,Onions,Sugar,Salt,Yeast Extract,Celery,Onion Powder,Carrots,Potassium Chloride,Corn Oil,Carrot Powder,Water,Modified Tapioca Starch,Carrot Juice Concentrate,Tomato Paste,Garlic Powder,Natural Flavor,Disodium Inosinate,Disodium Guanylate,Citric Acid,extractives of Paprika (for color)); Kosher Salt; Black Pepper"
-          },
-          {
-            "name": "Marinara Sauce",
-            "allergens": [],
-            "ingredients": "Crushed Tomatoes (Tomatoes,Tomato Puree,Citric Acid); Yellow Onion; Canola Oil; Garlic; Fresh Basil; Fresh Italian Parsley; Kosher Salt; Black Pepper"
-          },
-          {
-            "name": "Pepperoni Pizza",
-            "allergens": [
-              "milk.png",
-              "gluten.png",
-              "soya.png",
-              "gluten_wheat.png"
-            ],
-            "ingredients": "Pizza Dough (Enriched Unbleached Wheat Flour (Wheat Flour,Niacin,Iron as Ferrous Sulfate,Thiamine Mononitrate,Enzyme,Riboflavin,Folic Acid),Water,Yeast,contains less than 2% of the following:  Palm Oil,Salt,Buttermilk,Sugar,Soybean Oil,Leavening (Baking Soda,Sodium Aluminum Phosphate),Cheddar Cheese (Milk,Cheese Cultures,Salt,Enzymes),Pasteurized Part Skim Milk,Whey Powder (Milk Derivative),Garlic Powder,Cheese Culture,Guar Gum,Malted Barley Flour,Dextrose,Xanthan Gum,DATEM,Enzyme,Sodium Phosphate,Lactic Acid,Ascorbic Acid); Shredded Part Skim Mozzarella Cheese (Pasteurized Part Skim Milk,Cheese Culture,Salt,and Enzymes,Potato Starch and Powdered Cellulose added to prevent caking); Pizza Sauce (Vine Ripened Fresh Tomatoes,Sugar,Salt,Spices,Salt,Garlic Powder,Extra Virgin Olive Oil); Pepperoni (Pork,Beef,Salt,contains 2% or less of Spices,Dextrose,Oleoresin of Paprika,Lactic Acid Starter Culture,Garlic Powder,Sodium Nitrite,BHA,BHT,Citric Acid); Canola Oil; Italian Seasoning (Marjoram,Thyme,Rosemary,Savory,Sage,Oregano,and Basil); Garlic Powder"
-          }
-        ]
-      ]
-    }
+    "breakfast": [],
+    "brunch": [],
+    "lunch": [],
+    "dinner": [
+      {
+        "name": "Have A Nice Day",
+        "allergens": [],
+        "ingredients": "Plate Cost Peripherals"
+      },
+      {
+        "name": "Tater Tot Casserole",
+        "allergens": [
+          "gluten_wheat.png",
+          "soya.png",
+          "gluten.png",
+          "milk.png",
+          "sesame.png"
+        ],
+        "ingredients": "Ground Beef; Cream of Mushroom Soup (Water,Mushrooms,Corn,Cottonseed,Canola,and/or Soybean,Modified Food Starch,Wheat Flour,Salt,Monosodium Glutamate,Soy Protein Concentrate,Cream,Soy Lecithin,Yeast Extract,Dehydrated Garlic); Tater Tots (Potatoes,Vegetable Oil (Contains One or More of The Following Oils: Canola,Soybean,Cottonseed,Sunflower,Corn).  Contains 2% or less of Dextrose,Natural Flavor,Salt,Sodium Acid Pyrophosphate Added to Maintain Natural Color); Yellow Onion; Plain Bread Crumbs (Enriched Flour (Wheat Flour,Malted Barley Flour,Niacin,Reduced Iron,Thiamin Mononitrate [Vitamin B1],Riboflavin [Vitamin B2],Folic Acid),Water,High Fructose Corn Syrup,Yeast,Salt,Vegetable Oil (Soybean,Cottonseed  and/or Canola),Sugar,May Contain 2% Or Less Of The Following:  Wheat Gluten,Dextrose,Soy Flour,Whey,Calcium Propionate (Preservative),Sodium Stearoyl Lactylate (Dough Conditioner),Mono and Diglycerides,Soy Lecithin,Molasses,Honey,Whole Wheat Flour,Corn Flour,Cornmeal,Citric Acid,Grain Vinegar,Wheat Starch,Corn Starch,Potato Flour,Rice Flour,Wheat Bran,Oat Fiber,Calcium Sulfate,DATEM Gum,Calcium Phosphate,Enrichment (Vitamin E Acetate,Vitamin A Palmitate,Vitamin D3),Lactic Acid,Ascorbic Acid (Dough Conditioner),Spice &amp; Coloring,Natural and Artificial Flavor,Sesame Seeds); Shredded Mild Cheddar Cheese (Pasteurized Milk,Cheese Culture,Salt,Enzymes,Annatto (vegetable color),Potato Starch,Powdered Cellulose added to prevent caking); Kosher Salt; Black Pepper; Garlic Powder"
+      },
+      {
+        "name": "Broccoli Florets",
+        "allergens": [],
+        "ingredients": "Broccoli Florets; Tap Water"
+      },
+      {
+        "name": "Cheddar Mashed Potatoes",
+        "allergens": [
+          "soya.png",
+          "milk.png"
+        ],
+        "ingredients": "Chef Potato; 2% Milk; Shredded Mild Cheddar Cheese (Pasteurized Milk,Cheese Culture,Salt,Enzymes,Annatto (vegetable color),Potato Starch,Powdered Cellulose added to prevent caking); Margarine (Vegetable Oil Blend (Palm Oil and Soybean Oil) Water,Salt,contains less than 2% of Nonfat Dry Milk,Soy Lecithin,Vegetable Mono &amp; Diglycerides,Potassium Sorbate (a preservative),Citric Acid,Natural &amp; Artificial Flavor,Beta Carotene (color),Vitamin A Palmitate added); Kosher Salt; White Pepper Ground"
+      },
+      {
+        "name": "Hamburger On Bun",
+        "allergens": [
+          "sesame.png",
+          "gluten_wheat.png",
+          "gluten.png",
+          "soya.png"
+        ],
+        "ingredients": "Seasoned Beef Patty (Beef,Water,Spice,Salt); Hamburger Bun (Unbleached,Enriched Flour (Wheat Flour,Malted Barley Flour,Niacin,Iron,Thiamin Mononitrate,Riboflavin,Folic Acid),Water,High Fructose Corn Syrup,Yeast,Soybean Oil,contains 2% or less of the following: Wheat Gluten,Salt,Monocalcium Phosphate,Monoglycerides,Wheat Flour,Calcium Sulfate,Ammonium Sulfate,Ascorbic Acid,Enzymes,Calcium Propionate (preservative)); Tomato; Green Leaf Lettuce"
+      },
+      {
+        "name": "Cheeseburger On Bun",
+        "allergens": [
+          "sesame.png",
+          "milk.png",
+          "gluten.png",
+          "gluten_wheat.png",
+          "soya.png"
+        ],
+        "ingredients": "Seasoned Beef Patty (Beef,Water,Spice,Salt); Hamburger Bun (Unbleached,Enriched Flour (Wheat Flour,Malted Barley Flour,Niacin,Iron,Thiamin Mononitrate,Riboflavin,Folic Acid),Water,High Fructose Corn Syrup,Yeast,Soybean Oil,contains 2% or less of the following: Wheat Gluten,Salt,Monocalcium Phosphate,Monoglycerides,Wheat Flour,Calcium Sulfate,Ammonium Sulfate,Ascorbic Acid,Enzymes,Calcium Propionate (preservative)); Tomato; Yellow American Cheese (American Cheese (Milk,Cheese Culture,Salt,Enzymes),Water,Cream,Sodium Citrate,Salt,Sorbic Acid as a Preservative,color added (if colored (Annatto OS 460 and Oleoresin Paprika Non GMO)),Sunflower Lecithin for separation); Green Leaf Lettuce"
+      },
+      {
+        "name": "French Fries",
+        "allergens": [
+          "soya.png"
+        ],
+        "ingredients": "French Fries (Potatoes,Vegetable Oil (Contains One or More of The Following Oils: Canola,Soybean,Cottonseed,Sunflower,Corn). Contains 2% or less of Dextrose,Sodium Acid Pyrophosphate Added to Maintain Color); Vegetable Oil (Liquid and Hydrogenated Soybean Oil,TBHQ and Citric Acid added to protect flavor,Dimethylpolysiloxane (an anti-foaming agent))"
+      },
+      {
+        "name": "Black Bean Burger",
+        "allergens": [
+          "sesame.png",
+          "gluten_wheat.png",
+          "gluten.png",
+          "soya.png"
+        ],
+        "ingredients": "Vegetarian Black Bean Burger (Water,Cooked Black Beans (Black Beans,Water),Cooked Brown Rice (Water,Brown Rice),Soy Protein Concentrate,Onions,Whole Kernel Corn,Hydrated Bulgur Wheat (Water,Bulgur Wheat),Soy Protein Isolate,Green Chiles,Canola Oil,contains two percent or less of Salt,Spices,Red Bell Peppers,Black Bean Powder,Methylcellulose,Yeast Extract,Sugar,Onion Powder,Tomato Powder,Caramel Color,Natural Flavor,Garlic Powder,Paprika (color),Turmeric (color)); Hamburger Bun (Unbleached,Enriched Flour (Wheat Flour,Malted Barley Flour,Niacin,Iron,Thiamin Mononitrate,Riboflavin,Folic Acid),Water,High Fructose Corn Syrup,Yeast,Soybean Oil,contains 2% or less of the following: Wheat Gluten,Salt,Monocalcium Phosphate,Monoglycerides,Wheat Flour,Calcium Sulfate,Ammonium Sulfate,Ascorbic Acid,Enzymes,Calcium Propionate (preservative))"
+      },
+      {
+        "name": "Mindful Potato Leek Soup",
+        "allergens": [
+          "gluten_wheat.png",
+          "gluten.png"
+        ],
+        "ingredients": "Tap Water; Chef Potato; Leeks; Canola Oil; Celery; Yellow Onion; Vegetable Soup Base (Maltodextrin,Onions,Sugar,Salt,Yeast Extract,Celery,Onion Powder,Carrots,Potassium Chloride,Corn Oil,Carrot Powder,Water,Modified Tapioca Starch,Carrot Juice Concentrate,Tomato Paste,Garlic Powder,Natural Flavor,Disodium Inosinate,Disodium Guanylate,Citric Acid,extractives of Paprika (for color)); All Purpose Flour (Bleached Wheat Flour,Malted Barley Flour,Niacin,Iron,Thiamin Mononitrate,Riboflavin,Folic Acid); Garlic; Kosher Salt; White Pepper Ground"
+      },
+      {
+        "name": "Cheese Pizza",
+        "allergens": [
+          "milk.png",
+          "soya.png",
+          "gluten_wheat.png",
+          "gluten.png"
+        ],
+        "ingredients": "Pizza Dough (Enriched Unbleached Wheat Flour (Wheat Flour,Niacin,Iron as Ferrous Sulfate,Thiamine Mononitrate,Enzyme,Riboflavin,Folic Acid),Water,Yeast,contains less than 2% of the following:  Palm Oil,Salt,Buttermilk,Sugar,Soybean Oil,Leavening (Baking Soda,Sodium Aluminum Phosphate),Cheddar Cheese (Milk,Cheese Cultures,Salt,Enzymes),Pasteurized Part Skim Milk,Whey Powder (Milk Derivative),Garlic Powder,Cheese Culture,Guar Gum,Malted Barley Flour,Dextrose,Xanthan Gum,DATEM,Enzyme,Sodium Phosphate,Lactic Acid,Ascorbic Acid); Pizza Sauce (Vine Ripened Fresh Tomatoes,Sugar,Salt,Spices,Salt,Garlic Powder,Extra Virgin Olive Oil); Shredded Part Skim Mozzarella Cheese (Pasteurized Part Skim Milk,Cheese Culture,Salt,and Enzymes,Potato Starch and Powdered Cellulose added to prevent caking); Canola Oil; Italian Seasoning (Marjoram,Thyme,Rosemary,Savory,Sage,Oregano,and Basil); Garlic Powder"
+      },
+      {
+        "name": "Penne Pasta",
+        "allergens": [
+          "gluten_wheat.png",
+          "gluten.png"
+        ],
+        "ingredients": "Tap Water; Penne (Semolina (Wheat),Niacin,Ferrous Sulfate (Iron),Thiamin Mononitrate,Riboflavin,Folic Acid); Canola Oil; Kosher Salt"
+      },
+      {
+        "name": "Alfredo Sauce",
+        "allergens": [
+          "gluten.png",
+          "milk.png",
+          "gluten_wheat.png",
+          "soya.png"
+        ],
+        "ingredients": "Tap Water; Heavy Cream; Grated Parmesan Cheese (Parmesan Cheese (Pasteurized Part Skim Milk,Cheese Culture,Salt,Enzymes),Powdered Cellulose (added to prevent caking),Potassium Sorbate to protect flavor); All Purpose Flour (Bleached Wheat Flour,Malted Barley Flour,Niacin,Iron,Thiamin Mononitrate,Riboflavin,Folic Acid); Margarine (Vegetable Oil Blend (Palm Oil and Soybean Oil) Water,Salt,contains less than 2% of Nonfat Dry Milk,Soy Lecithin,Vegetable Mono &amp; Diglycerides,Potassium Sorbate (a preservative),Citric Acid,Natural &amp; Artificial Flavor,Beta Carotene (color),Vitamin A Palmitate added); Vegetable Soup Base (Maltodextrin,Onions,Sugar,Salt,Yeast Extract,Celery,Onion Powder,Carrots,Potassium Chloride,Corn Oil,Carrot Powder,Water,Modified Tapioca Starch,Carrot Juice Concentrate,Tomato Paste,Garlic Powder,Natural Flavor,Disodium Inosinate,Disodium Guanylate,Citric Acid,extractives of Paprika (for color)); Kosher Salt; Black Pepper"
+      },
+      {
+        "name": "Marinara Sauce",
+        "allergens": [],
+        "ingredients": "Crushed Tomatoes (Tomatoes,Tomato Puree,Citric Acid); Yellow Onion; Canola Oil; Garlic; Fresh Basil; Fresh Italian Parsley; Kosher Salt; Black Pepper"
+      },
+      {
+        "name": "Pepperoni Pizza",
+        "allergens": [
+          "milk.png",
+          "gluten.png",
+          "soya.png",
+          "gluten_wheat.png"
+        ],
+        "ingredients": "Pizza Dough (Enriched Unbleached Wheat Flour (Wheat Flour,Niacin,Iron as Ferrous Sulfate,Thiamine Mononitrate,Enzyme,Riboflavin,Folic Acid),Water,Yeast,contains less than 2% of the following:  Palm Oil,Salt,Buttermilk,Sugar,Soybean Oil,Leavening (Baking Soda,Sodium Aluminum Phosphate),Cheddar Cheese (Milk,Cheese Cultures,Salt,Enzymes),Pasteurized Part Skim Milk,Whey Powder (Milk Derivative),Garlic Powder,Cheese Culture,Guar Gum,Malted Barley Flour,Dextrose,Xanthan Gum,DATEM,Enzyme,Sodium Phosphate,Lactic Acid,Ascorbic Acid); Shredded Part Skim Mozzarella Cheese (Pasteurized Part Skim Milk,Cheese Culture,Salt,and Enzymes,Potato Starch and Powdered Cellulose added to prevent caking); Pizza Sauce (Vine Ripened Fresh Tomatoes,Sugar,Salt,Spices,Salt,Garlic Powder,Extra Virgin Olive Oil); Pepperoni (Pork,Beef,Salt,contains 2% or less of Spices,Dextrose,Oleoresin of Paprika,Lactic Acid Starter Culture,Garlic Powder,Sodium Nitrite,BHA,BHT,Citric Acid); Canola Oil; Italian Seasoning (Marjoram,Thyme,Rosemary,Savory,Sage,Oregano,and Basil); Garlic Powder"
+      }
+    ]
   }
 }
